@@ -28,6 +28,11 @@
         "author": "Ewan Howell",
         "eula": true
       },
+            {
+        "id": "showcase_room",
+        "author": "MisterGriimm",
+        "eula": true
+      },
       {
         "id": "chest_base",
         "author": "PhantomEye"
